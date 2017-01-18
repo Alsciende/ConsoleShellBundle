@@ -1,0 +1,8 @@
+alsciende_console_shell:
+    resource: "@AlsciendeConsoleShellBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
